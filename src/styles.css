@@ -206,3 +206,9 @@ button {
   display: flex;
   flex-direction: column;
 }
+
+#container-shipment-form {
+    max-width: 900px;
+    margin-right: auto;
+    margin-left: auto;
+}
